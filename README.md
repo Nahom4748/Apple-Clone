@@ -8,10 +8,14 @@ Homepage: A striking landing page that mirrors Apple's minimalist design, comple
 Product Pages: Immersive pages dedicated to various products, featuring engaging interactive elements and detailed product information.
 Navigation: An intuitive top navigation bar and footer that replicate the seamless browsing experience of the original site.
 Responsive Design: An adaptive design that ensures optimal viewing and interaction across a wide range of devices and screen sizes.
+
+
 🚀 Features
 Responsive Design: Guarantees a flawless user experience across all devices, from smartphones to desktops.
 Interactive Components: Enhanced with animations and dynamic elements to provide a vibrant and engaging user experience.
 Modern Web Technologies: Built using HTML, CSS, and JavaScript, ensuring a clean, efficient, and functional design.
+
+
 📁 Project Structure
 src/: Contains all source files, including:
 components/: Reusable components for various sections of the site.
